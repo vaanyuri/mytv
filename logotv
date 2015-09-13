@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <tv>
+      <channel id="HBO">
+          <display-name lang="en">HBO</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/215px-HBO_logo.svg.png" />
+      </channel>
+      <channel id="Cinemax">
+          <display-name lang="en">Cinemax</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/205px-Cinemax.svg.png" />
+      </channel>
+      <channel id="VTV 1">
+          <display-name lang="en">VTV 1</display-name>
+		  <icon src="http://vtv1.vcmedia.vn/2014/vtv1-1408525529847.png" />
+      </channel>
+      <channel id="VTV 2">
+          <display-name lang="en">VTV 2</display-name>
+		  <icon src="http://vtv1.vcmedia.vn/2014/vtv2-1408525529850.png" />
+      </channel>
+      <channel id="VTV 3">
+          <display-name lang="en">VTV 3</display-name>
+		  <icon src="http://vtv1.vcmedia.vn/2014/vtv3-1408525529852.png" />
+      </channel>
+      <channel id="VTV4">
+          <display-name lang="en">VTV4</display-name>
+		  <icon src="http://vtv1.vcmedia.vn/2014/vtv4-1408525529858.png" />
+      </channel>
+      <channel id="VTV5">
+          <display-name lang="en">VTV5</display-name>
+		  <icon src="http://vtv1.vcmedia.vn/2014/vtv5-1408525529862.png" />
+      </channel>
+      <channel id="VTV 6">
+          <display-name lang="en">VTV 6</display-name>
+		  <icon src="http://vtv1.vcmedia.vn/2014/vtv6-1408525529866.png" />
+      </channel>
+      <channel id="VTV 6 HD">
+          <display-name lang="en">VTV 6 HD</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_VTV6.jpg" />
+      </channel>
+      <channel id="VTV9">
+          <display-name lang="en">VTV9</display-name>
+		  <icon src="http://vtv1.vcmedia.vn/2014/vtv9-1408525529875.png" />
+      </channel>
+      <channel id="VTVDN">
+          <display-name lang="en">VTVDN</display-name>
+		  <icon src="http://vtv1.vcmedia.vn/2015/vtvdn-1430971310044.png" />
+      </channel>
+      <channel id="VTVCT">
+          <display-name lang="en">VTVCT</display-name>
+		  <icon src="http://vtv1.vcmedia.vn/2015/cantho1-1430972278008.png" />
+      </channel>
+      <channel id="AXN">
+          <display-name lang="en">AXN</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/250px-AXN_logo.svg.png" />
+      </channel>
+      <channel id="StarMovie HD">
+          <display-name lang="en">StarMovie HD</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/220px-STAR_Movies_logo.svg.png" />
+      </channel>
+      <channel id="Animal Planet">
+          <display-name lang="en">Animal Planet</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/190px-Animal_Planet_logo_%28black_and_green%29.svg.png" />
+      </channel>
+      <channel id="National Geographic HD">
+          <display-name lang="en">National Geographic HD</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/200px-National_Geographic_Channel.svg.png" />
+      </channel>
+      <channel id="StarWorld">
+          <display-name lang="en">StarWorld</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/STAR_World_2013.png/200px-STAR_World_2013.png" />
+      </channel>
+      <channel id="Star World HD">
+          <display-name lang="en">Star World HD</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/STAR_World_2013.png/200px-STAR_World_2013.png" />
+      </channel>
+      <channel id="Discovery">
+          <display-name lang="en">Discovery</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Discovery_Channel_International.svg/240px-Discovery_Channel_International.svg.png" />
+      </channel>
+      <channel id="Chanel V">
+          <display-name lang="en">Chanel V</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/250px-Channel_V_Logo.svg.png" />
+      </channel>
+      <channel id="Channel V HD">
+          <display-name lang="en">Channel V HD</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/250px-Channel_V_Logo.svg.png" />
+      </channel>
+      <channel id="FOX Sports 2 HD">
+          <display-name lang="en">FOX Sports 2 HD</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Fox_Sports_2_logo.png/200px-Fox_Sports_2_logo.png" />
+      </channel>
+      <channel id="FOX Sports HD">
+          <display-name lang="en">FOX Sports HD</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FSR-4cBluetxt-color-hi-res.png/200px-FSR-4cBluetxt-color-hi-res.png" />
+      </channel>
+      <channel id="Bong da TV HD">
+          <display-name lang="en">Bong da TV HD</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/0001.png" />
+      </channel>
+      <channel id="The thao TV HD">
+          <display-name lang="en">The thao TV HD</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/logo3.png" />
+      </channel>
+      <channel id="VTC-HD 1">
+          <display-name lang="en">VTC-HD 1</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/h-u/max-22-08/vtc-hd1_w122_h122.jpg" />
+      </channel>
+      <channel id="VTC 1">
+          <display-name lang="en">VTC 1</display-name>
+		  <icon src="http://ehc.ac/p/xbmc/plugins/ci/1ce0e703a45b7c7901cd790ccc7714077c0aa797/tree/plugin.video.tvvn/vtc1.png?format=raw" />
+      </channel>
+      <channel id="VTC 2">
+          <display-name lang="en">VTC 2</display-name>
+		  <icon src="http://ehc.ac/p/xbmc/plugins/ci/1ce0e703a45b7c7901cd790ccc7714077c0aa797/tree/plugin.video.tvvn/vtc2.png?format=raw" />
+      </channel>
+      <channel id="Hà Nội 1">
+          <display-name lang="en">Hà Nội 1</display-name>
+		  <icon src="http://i.imgur.com/vqST0Ie.png" />
+      </channel>
+      <channel id="Hà Nội 2">
+          <display-name lang="en">Hà Nội 2</display-name>
+		  <icon src="http://i.imgur.com/7szzwta.png" />
+      </channel>
+      <channel id="HTV 1">
+          <display-name lang="en">HTV 1</display-name>
+		  <icon src="http://i.imgur.com/mtNSji1.png" />
+      </channel>
+      <channel id="HTV 2">
+          <display-name lang="en">HTV 2</display-name>
+		  <icon src="http://i.imgur.com/WYdWm3k.png" />
+      </channel>
+      <channel id="HTV2 HD">
+          <display-name lang="en">HTV2 HD</display-name>
+		  <icon src="http://i.imgur.com/WYdWm3k.png" />
+      </channel>
+      <channel id="HTV 3">
+          <display-name lang="en">HTV 3</display-name>
+		  <icon src="http://i.imgur.com/H8hDiuE.png" />
+      </channel>
+      <channel id="HTV 4">
+          <display-name lang="en">HTV 4</display-name>
+		  <icon src="http://i.imgur.com/dnnnGom.png" />
+      </channel>
+      <channel id="HTV 7">
+          <display-name lang="en">HTV 7</display-name>
+		  <icon src="http://i.imgur.com/RKUKL7P.png" />
+      </channel>
+      <channel id="HTV7 HD">
+          <display-name lang="en">HTV7 HD</display-name>
+		  <icon src="http://i.imgur.com/RKUKL7P.png" />
+      </channel>
+      <channel id="HTV 9">
+          <display-name lang="en">HTV 9</display-name>
+		  <icon src="http://i.imgur.com/LQJA3CJ.png" />
+      </channel>
+      <channel id="HTV9 HD">
+          <display-name lang="en">HTV9 HD</display-name>
+		  <icon src="http://i.imgur.com/LQJA3CJ.png" />
+      </channel>
+      <channel id="K+ 1">
+          <display-name lang="en">K+ 1</display-name>
+		  <icon src="http://www.hdctv.com.vn/wp-content/uploads/2014/07/k+1HD1-225x115.png" />
+      </channel>
+      <channel id="K+ PC">
+          <display-name lang="en">K+ PC</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/kpc1_w122_h122.png" />
+      </channel>
+      <channel id="K+ PM">
+          <display-name lang="en">K+ PM</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/kpm_w122_h122.png" />
+      </channel>
+      <channel id="K+ NS">
+          <display-name lang="en">K+ NS</display-name>
+		  <icon src="http://i.imgur.com/gUgZ8SM.png" />
+      </channel>
+      <channel id="MTV">
+          <display-name lang="en">MTV</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png" />
+      </channel>
+      <channel id="HTV Phụ nữ">
+          <display-name lang="en">HTV Phụ nữ</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_PhuNu.jpg" />
+      </channel>
+      <channel id="HTV Thể thao">
+          <display-name lang="en">HTV Thể thao</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_HTVCTheThao.jpg" />
+      </channel>
+      <channel id="HTV Du lịch">
+          <display-name lang="en">HTV Du lịch</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_HTVC_Dulich_CuocSong.jpg" />
+      </channel>
+      <channel id="HTV Ca nhạc">
+          <display-name lang="en">HTV Ca nhạc</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_HTVC_CaNhac.jpg" />
+      </channel>
+      <channel id="HTV Phim truyện">
+          <display-name lang="en">HTV Phim truyện</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_HTVCPhim.jpg" />
+      </channel>
+      <channel id="HTV Gia đình">
+          <display-name lang="en">HTV Gia đình</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_HTVGiaDinh.jpg" />
+      </channel>
+      <channel id="HTVC Phim HD">
+          <display-name lang="en">HTVC Phim HD</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_HTVCPhim.jpg" />
+      </channel>
+      <channel id="HTVC Thuần Việt HD">
+          <display-name lang="en">HTVC Thuần Việt HD</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_HDThuanViet.jpg" />
+      </channel>
+      <channel id="HTV Thể thao HD">
+          <display-name lang="en">HTV Thể thao HD</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_HTVCTheThao.jpg" />
+      </channel>
+      <channel id="HTVC+">
+          <display-name lang="en">HTVC+</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_Chanel_HTVC_HD.jpg" />
+      </channel>
+      <channel id="Thuần Việt">
+          <display-name lang="en">Thuần Việt</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_Thuan_viet.jpg" />
+      </channel>
+      <channel id="FBNC">
+          <display-name lang="en">FBNC</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_Chanel_FBNC.jpg" />
+      </channel>
+      <channel id="YOU TV-PHỤ NỮ GIA ĐÌNH">
+          <display-name lang="en">YOU TV-PHỤ NỮ GIA ĐÌNH</display-name>
+		  <icon src="http://www.vtvcab.vn/Uploaded/nguyenanh/2014_07_18/Logo%20You%20TV.png" />
+      </channel>
+      <channel id="ITV-HD">
+          <display-name lang="en">ITV-HD</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_Chanel_iTVHD.jpg" />
+      </channel>
+      <channel id="VTVcab 17-Yeah1 TV">
+          <display-name lang="en">VTVcab 17-Yeah1 TV</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvcab-17.png" />
+      </channel>
+      <channel id="Disney Junior">
+          <display-name lang="en">Disney Junior</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Disney_Junior_Logo.png/250px-Disney_Junior_Logo.png" />
+      </channel>
+      <channel id="Cartoon Network">
+          <display-name lang="en">Cartoon Network</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png" />
+      </channel>
+      <channel id="Fashion">
+          <display-name lang="en">Fashion</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/200px-Fashion_TV_logo.svg.png" />
+      </channel>
+      <channel id="DW">
+          <display-name lang="en">DW</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" />
+      </channel>
+      <channel id="SCTV1">
+          <display-name lang="en">SCTV1</display-name>
+		  <icon src="http://sctv.thanhnien.com.vn/Pictures/sctv1_web.png" />
+      </channel>
+      <channel id="SCTV2">
+          <display-name lang="en">SCTV2</display-name>
+		  <icon src="http://www.tv14.net/wp-content/uploads/2010/09/sctv_2.jpg" />
+      </channel>
+      <channel id="SCTV3">
+          <display-name lang="en">SCTV3</display-name>
+		  <icon src="https://anhhungtraidat.files.wordpress.com/2011/11/logo-sctv31.jpg" />
+      </channel>
+      <channel id="SCTV Thieunhi HD">
+          <display-name lang="en">SCTV Thieunhi HD</display-name>
+		  <icon src="http://saotv.vn/template/Default/images/logo_saotv.png" />
+      </channel>
+      <channel id="SCTV4">
+          <display-name lang="en">SCTV4</display-name>
+		  <icon src="http://sctv.thanhnien.com.vn/Pictures/sctv465602731.png" />
+      </channel>
+      <channel id="SCTV6">
+          <display-name lang="en">SCTV6</display-name>
+		  <icon src="http://farm1.staticflickr.com/487/20193055256_a2e3386666_b.jpg" />
+      </channel>
+      <channel id="SCTV7">
+          <display-name lang="en">SCTV7</display-name>
+		  <icon src="http://farm1.staticflickr.com/491/20031312640_4899cda447_b.jpg" />
+      </channel>
+      <channel id="SCTV9">
+          <display-name lang="en">SCTV9</display-name>
+		  <icon src="http://sctv.thanhnien.com.vn/Pictures/sctv912947473.png" />
+      </channel>
+      <channel id="SCTV11">
+          <display-name lang="en">SCTV11</display-name>
+		  <icon src="http://sctv.thanhnien.com.vn/Pictures/sctv1117677935.png" />
+      </channel>
+      <channel id="SCTV12">
+          <display-name lang="en">SCTV12</display-name>
+		  <icon src="http://farm1.staticflickr.com/463/20031330050_650f6300d3_b.jpg" />
+      </channel>
+      <channel id="SCTV13">
+          <display-name lang="en">SCTV13</display-name>
+		  <icon src="http://farm1.staticflickr.com/481/19596695274_3948b01efc_b.jpg" />
+      </channel>
+      <channel id="SCTV14">
+          <display-name lang="en">SCTV14</display-name>
+		  <icon src="http://sctv.thanhnien.com.vn/Pictures/sctv14.png" />
+      </channel>
+      <channel id="SCTV15">
+          <display-name lang="en">SCTV15</display-name>
+		  <icon src="http://sctv.thanhnien.com.vn/Pictures201502/sctv15NEW.png" />
+      </channel>
+      <channel id="SCTV16">
+          <display-name lang="en">SCTV16</display-name>
+		  <icon src="http://sctv.thanhnien.com.vn/Pictures/sctv1672163391.png" />
+      </channel>
+      <channel id="SCTV Phim Nuocngoai HD">
+          <display-name lang="en">SCTV Phim Nuocngoai HD</display-name>
+		  <icon src="http://sctv.thanhnien.com.vn/Pictures/sctv1672163391.png" />
+      </channel>
+      <channel id="SCTV17">
+          <display-name lang="en">SCTV17</display-name>
+		  <icon src="http://farm1.staticflickr.com/274/20231728602_75a56928d9_b.jpg" />
+      </channel>
+      <channel id="SCTV18">
+          <display-name lang="en">SCTV18</display-name>
+		  <icon src="http://sctv.thanhnien.com.vn/Pictures201506/download.jpg" />
+      </channel>
+      <channel id="SCTV HD phim tong hop">
+          <display-name lang="en">SCTV HD phim tong hop</display-name>
+		  <icon src="http://sctv.thanhnien.com.vn/Pictures/logoSCTVTonghop.png" />
+      </channel>
+      <channel id="SCTV HD the thao">
+          <display-name lang="en">SCTV HD the thao</display-name>
+		  <icon src="http://sctv.thanhnien.com.vn/Pictures201506/download.jpg" />
+      </channel>
+      <channel id="The thao TV HD Tin Tuc">
+          <display-name lang="en">The thao TV HD Tin Tuc</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/logo3.png" />
+      </channel>
+      <channel id="VTVcab 1 - Giai Tri TV">
+          <display-name lang="en">VTVcab 1 - Giai Tri TV</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/00_w122_h122.png" />
+      </channel>
+      <channel id="VTVcab 2 - Phim Viet">
+          <display-name lang="en">VTVcab 2 - Phim Viet</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvcab-2_w122_h122.png" />
+      </channel>
+      <channel id="VTVcab 3 - The Thao TV">
+          <display-name lang="en">VTVcab 3 - The Thao TV</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvcab33_w122_h122.png" />
+      </channel>
+      <channel id="VTVcab 4">
+          <display-name lang="en">VTVcab 4</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/9/image/-nh-1/vtvcab4_w122_h122.png" />
+      </channel>
+      <channel id="VTVcab 5 - E Channel">
+          <display-name lang="en">VTVcab 5 - E Channel</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvcab55_w122_h122.png" />
+      </channel>
+      <channel id="VTVcab 6 - Hay TV">
+          <display-name lang="en">VTVcab 6 - Hay TV</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvcab6_w122_h122.png" />
+      </channel>
+      <channel id="VTVcab 7 - D Drama">
+          <display-name lang="en">VTVcab 7 - D Drama</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvcab7_w122_h122.png" />
+      </channel>
+      <channel id="VTVcab 8 - BiBi">
+          <display-name lang="en">VTVcab 8 - BiBi</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvcab8_w122_h122.png" />
+      </channel>
+      <channel id="VTVcab 10 - O2TV">
+          <display-name lang="en">VTVcab 10 - O2TV</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvca10_w122_h122.png" />
+      </channel>
+      <channel id="VTVcab 12 - Style TV HD">
+          <display-name lang="en">VTVcab 12 - Style TV HD</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvcab-12_w122_h122.png" />
+      </channel>
+      <channel id="VTVcab 15 - Invest TV">
+          <display-name lang="en">VTVcab 15 - Invest TV</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvcab-15_w122_h122.png" />
+      </channel>
+      <channel id="VTVcab 16 - Bong Da TV">
+          <display-name lang="en">VTVcab 16 - Bong Da TV</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvcab-16_w122_h122.png" />
+      </channel>
+      <channel id="VTVcab 19 - Kenh Phim">
+          <display-name lang="en">VTVcab 19 - Kenh Phim</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/5/anh1/logo-phimtv-final230_w122_h122.gif" />
+      </channel>
+      <channel id="VTVcab 20 - V Family">
+          <display-name lang="en">VTVcab 20 - V Family</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/9/image/-nh-1/v20-184_w122_h122.jpg" />
+      </channel>
+      <channel id="VTC 7 (Today)">
+          <display-name lang="en">VTC 7 (Today)</display-name>
+		  <icon src="http://todaytv.vn/images/ms/logotv.png" />
+      </channel>
+      <channel id="VTC 10">
+          <display-name lang="en">VTC 10</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_VTC10.jpg" />
+      </channel>
+      <channel id="TTXVN (VNEWS)">
+          <display-name lang="en">TTXVN (VNEWS)</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/vi/6/68/Logo_TTXVN.jpg" />
+      </channel>
+      <channel id="VTC 8 (VITV)">
+          <display-name lang="en">VTC 8 (VITV)</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_VTC8.jpg" />
+      </channel>
+      <channel id="VTC 14">
+          <display-name lang="en">VTC 14</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_VTC14.jpg" />
+      </channel>
+      <channel id="ANTV">
+          <display-name lang="en">ANTV</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_ANTV.jpg" />
+      </channel>
+      <channel id="VTC 3">
+          <display-name lang="en">VTC 3</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/h-u/max-22-08/vtc3hd.jpg" />
+      </channel>
+      <channel id="VTC 4">
+          <display-name lang="en">VTC 4</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_VTC4.jpg" />
+      </channel>
+      <channel id="VTC 5">
+          <display-name lang="en">VTC 5</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_VTC5.jpg" />
+      </channel>
+      <channel id="VTC 6">
+          <display-name lang="en">VTC 6</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_VTC6.jpg" />
+      </channel>
+      <channel id="VTC 11">
+          <display-name lang="en">VTC 11</display-name>
+		  <icon src="http://kidstv.com.vn/wp-content/uploads/2013/10/logo-KidsFamily-Finalcopy1.png" />
+      </channel>
+      <channel id="VTC 12">
+          <display-name lang="en">VTC 12</display-name>
+		  <icon src="http://i.imgur.com/EpjzTQ1.jpg" />
+      </channel>
+      <channel id="VTC 16">
+          <display-name lang="en">VTC 16</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/h-u/max-22-08/vtc16_w122_h122.png" />
+      </channel>
+      <channel id="VTC HD2">
+          <display-name lang="en">VTC HD2</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/h-u/max-22-08/vtc-hd2_w122_h122.jpg" />
+      </channel>
+      <channel id="VTC HD3">
+          <display-name lang="en">VTC HD3</display-name>
+		  <icon src="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/h-u/max-22-08/vtchd3.jpg" />
+      </channel>
+      <channel id="Disney Channel">
+          <display-name lang="en">Disney Channel</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Disney-channel-new2015.png/200px-Disney-channel-new2015.png" />
+      </channel>
+      <channel id="Diva Universal">
+          <display-name lang="en">Diva Universal</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diva_Universal.svg/200px-Diva_Universal.svg.png" />
+      </channel>
+      <channel id="Discovery World HD">
+          <display-name lang="en">Discovery World HD</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Discovery_world_hd_%28small_globe%29.png/220px-Discovery_world_hd_%28small_globe%29.png" />
+      </channel>
+      <channel id="SKY Sports 1">
+          <display-name lang="en">SKY Sports 1</display-name>
+		  <icon src="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1269.png" />
+      </channel>
+      <channel id="SKY Sports 2">
+          <display-name lang="en">SKY Sports 2</display-name>
+		  <icon src="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1271.png" />
+      </channel>
+      <channel id="SKY Sports 3">
+          <display-name lang="en">SKY Sports 3</display-name>
+		  <icon src="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1273.png" />
+      </channel>
+      <channel id="SKY Sports 4">
+          <display-name lang="en">SKY Sports 4</display-name>
+		  <icon src="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1275.png" />
+      </channel>
+      <channel id="SKY Sports 5">
+          <display-name lang="en">SKY Sports 5</display-name>
+		  <icon src="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1277.png" />
+      </channel>
+      <channel id="BT Sport 1">
+          <display-name lang="en">BT Sport 1</display-name>
+		  <icon src="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1287.png" />
+      </channel>
+      <channel id="BT Sport 2">
+          <display-name lang="en">BT Sport 2</display-name>
+		  <icon src="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1289.png" />
+      </channel>
+      <channel id="BT Sport-ESPN">
+          <display-name lang="en">BT Sport-ESPN</display-name>
+		  <icon src="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201506091492.png" />
+      </channel>
+      <channel id="Canal+ Sport France">
+          <display-name lang="en">Canal+ Sport France</display-name>
+		  <icon src="http://static.timefor.tv/imgs/epg/logos/canalsport_fr_big.png" />
+      </channel>
+      <channel id="ArenaVision 1">
+          <display-name lang="en">ArenaVision 1</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 2">
+          <display-name lang="en">ArenaVision 2</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 3">
+          <display-name lang="en">ArenaVision 3</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 4">
+          <display-name lang="en">ArenaVision 4</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 5">
+          <display-name lang="en">ArenaVision 5</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 6">
+          <display-name lang="en">ArenaVision 6</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 7">
+          <display-name lang="en">ArenaVision 7</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 8">
+          <display-name lang="en">ArenaVision 8</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 9">
+          <display-name lang="en">ArenaVision 9</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 10">
+          <display-name lang="en">ArenaVision 10</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 11">
+          <display-name lang="en">ArenaVision 11</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 12">
+          <display-name lang="en">ArenaVision 12</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 13">
+          <display-name lang="en">ArenaVision 13</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 14">
+          <display-name lang="en">ArenaVision 14</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 15">
+          <display-name lang="en">ArenaVision 15</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 16">
+          <display-name lang="en">ArenaVision 16</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 17">
+          <display-name lang="en">ArenaVision 17</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 18">
+          <display-name lang="en">ArenaVision 18</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 19">
+          <display-name lang="en">ArenaVision 19</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 20">
+          <display-name lang="en">ArenaVision 20</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 21">
+          <display-name lang="en">ArenaVision 21</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="ArenaVision 22">
+          <display-name lang="en">ArenaVision 22</display-name>
+		  <icon src="http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg" />
+      </channel>
+      <channel id="Canal+ Liga">
+          <display-name lang="en">Canal+ Liga</display-name>
+		  <icon src="http://static.timefor.tv/imgs/epg/logos/canalliga_big.png" />
+      </channel>
+      <channel id="Canal+ Futbol">
+          <display-name lang="en">Canal+ Futbol</display-name>
+		  <icon src="http://static.timefor.tv/imgs/epg/logos/canalftbol_big.png" />
+      </channel>
+      <channel id="NBC Sports Network HD">
+          <display-name lang="en">NBC Sports Network HD</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/NBCSN_logo.png/250px-NBCSN_logo.png" />
+      </channel>
+      <channel id="NTV+ Football 1 HD Russia">
+          <display-name lang="en">NTV+ Football 1 HD Russia</display-name>
+		  <icon src="http://cdn.ntvplus.ru/files/2014/10/01/151789.jpg" />
+      </channel>
+      <channel id="NTV+ Football 2 HD Russia">
+          <display-name lang="en">NTV+ Football 2 HD Russia</display-name>
+		  <icon src="http://cdn.ntvplus.ru/files/2011/03/14/157892.jpg" />
+      </channel>
+      <channel id="NTV+ Football 3 HD Russia">
+          <display-name lang="en">NTV+ Football 3 HD Russia</display-name>
+		  <icon src="http://cdn.ntvplus.ru/files/2014/10/01/654627.jpg" />
+      </channel>
+      <channel id="Football 1 HD Russia">
+          <display-name lang="en">Football 1 HD Russia</display-name>
+		  <icon src="http://torrent-tv.ru/uploads/Ed2YfmGzJTIwp21POjaFmwsVRDm9Nu.png" />
+      </channel>
+      <channel id="Football 2 HD Russia">
+          <display-name lang="en">Football 2 HD Russia</display-name>
+		  <icon src="http://torrent-tv.ru/uploads/RMSfBa3aPXiLTe98laXkCZ9jrCScZ9.png" />
+      </channel>
+      <channel id="Astro Supersport HD">
+          <display-name lang="en">Astro Supersport HD</display-name>
+		  <icon src="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/831_300.png" />
+      </channel>
+      <channel id="Astro Supersport 2 HD">
+          <display-name lang="en">Astro Supersport 2 HD</display-name>
+		  <icon src="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/833_300.png" />
+      </channel>
+      <channel id="Astro Supersport 3 HD">
+          <display-name lang="en">Astro Supersport 3 HD</display-name>
+		  <icon src="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/834_300.png" />
+      </channel>
+      <channel id="Astro Supersport 4">
+          <display-name lang="en">Astro Supersport 4</display-name>
+		  <icon src="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/817_300.png" />
+      </channel>
+      <channel id="FOX Sports">
+          <display-name lang="en">FOX Sports</display-name>
+		  <icon src="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/832_300.png" />
+      </channel>
+      <channel id="FOX Sports 3 HD">
+          <display-name lang="en">FOX Sports 3 HD</display-name>
+		  <icon src="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/818_300.png" />
+      </channel>
+      <channel id="Skynet Sports HD">
+          <display-name lang="en">Skynet Sports HD</display-name>
+		  <icon src="http://www.lyngsat-logo.com/logo/tv/ss/sky_net_sports_mm.png" />
+      </channel>
+      <channel id="EDGE Sport">
+          <display-name lang="en">EDGE Sport</display-name>
+		  <icon src="http://www.edgesport.com/assets/images/edgesport/edgesport-logo.png" />
+      </channel>
+      <channel id="ESPN HD">
+          <display-name lang="en">ESPN HD</display-name>
+		  <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" />
+      </channel>
+      <channel id="Screen Red">
+          <display-name lang="en">Screen Red</display-name>
+		  <icon src="http://qnet.com.vn/data/banners/gav1380859413.png" />
+      </channel>
+      <channel id="THVL1">
+          <display-name lang="en">THVL1</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_THVL1.jpg" />
+      </channel>
+      <channel id="THVL2">
+          <display-name lang="en">THVL2</display-name>
+		  <icon src="http://nth.com.vn/NTH/Image/Kenh/Chanel_THVL2.jpg" />
+      </channel>
+		  
+		 
+	</tv>
